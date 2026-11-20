@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="t d">
+  <title id="t">MarketPulse AI</title>
+  <desc id="d">Competitor and industry news, measured and briefed with sources.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#DC2626"/>
+      <stop offset="1" stop-color="#7F1D1D"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.18" r="0.65">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.3" fill="#fff" fill-opacity="0.11"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1280" height="340" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="340" fill="url(#bg)"/>
+    <rect width="1280" height="340" fill="url(#dots)"/>
+    <rect width="1280" height="340" fill="url(#glow)"/>
+    <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
+      <g stroke-opacity='0.22' stroke-width='3'><circle cx='1110' cy='165' r='48'/><circle cx='1110' cy='165' r='94'/><circle cx='1110' cy='165' r='140'/><line x1='1110' y1='20' x2='1110' y2='310'/><line x1='965' y1='165' x2='1255' y2='165'/></g><path d='M1110 165 L1216 76 A138 138 0 0 1 1248 165 Z' fill='#fff' fill-opacity='0.12' stroke='none'/><line x1='1110' y1='165' x2='1216' y2='76' stroke-width='4' stroke-opacity='0.6'/><circle cx='1190' cy='118' r='8' fill='#fff' stroke='none'/><circle cx='1190' cy='118' r='17' stroke-width='3' stroke-opacity='0.5'/><circle cx='1058' cy='96' r='6' fill='#fff' fill-opacity='0.85' stroke='none'/><circle cx='1160' cy='212' r='5' fill='#fff' fill-opacity='0.7' stroke='none'/><polyline points='905,252 985,252 1003,252 1018,222 1036,292 1058,150 1080,270 1096,240 1112,252 1250,252' stroke-width='5' stroke-opacity='0.95'/>
+    </g>
+  </g>
+  <text x="64" y="138" font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="66" font-weight="800" fill="#fff" letter-spacing="-1.5">MarketPulse AI</text>
+  <text x="66" y="188" font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" fill="#fff" fill-opacity="0.9">Competitor and industry news, measured and briefed with sources.</text>
+  <rect x="66" y="236" width="156" height="34" rx="17" fill="#fff" fill-opacity="0.14" stroke="#fff" stroke-opacity="0.28"/><text x="144" y="258.5" text-anchor="middle" font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#fff">Google News RSS</text>
+  <rect x="232" y="236" width="148" height="34" rx="17" fill="#fff" fill-opacity="0.14" stroke="#fff" stroke-opacity="0.28"/><text x="306" y="258.5" text-anchor="middle" font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#fff">Share of voice</text>
+  <rect x="390" y="236" width="80" height="34" rx="17" fill="#fff" fill-opacity="0.14" stroke="#fff" stroke-opacity="0.28"/><text x="430" y="258.5" text-anchor="middle" font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#fff">Spikes</text>
+  <rect x="480" y="236" width="80" height="34" rx="17" fill="#fff" fill-opacity="0.14" stroke="#fff" stroke-opacity="0.28"/><text x="520" y="258.5" text-anchor="middle" font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#fff">Themes</text>
+  <rect x="570" y="236" width="156" height="34" rx="17" fill="#fff" fill-opacity="0.14" stroke="#fff" stroke-opacity="0.28"/><text x="648" y="258.5" text-anchor="middle" font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#fff">Cited briefings</text>
+</svg>
